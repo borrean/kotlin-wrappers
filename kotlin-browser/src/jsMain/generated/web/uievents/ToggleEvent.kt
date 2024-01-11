@@ -32,5 +32,5 @@ open external class ToggleEvent(
      */
     val oldState: String
 
-    companion object
+
 }
